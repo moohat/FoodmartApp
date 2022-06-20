@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.docapp">
+  package="com.rnapp.foodmartapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
