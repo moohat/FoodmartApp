@@ -5,6 +5,7 @@ const App = () => {
   return (
     <View>
       <Text>Hello brow in REact Native</Text>
+     
     </View>
   );
 };
